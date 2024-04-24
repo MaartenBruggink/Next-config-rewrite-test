@@ -46,7 +46,7 @@ export default function Home({
           height={37}
           priority
         />
-        {` ${params.locale} ${params.locale}`}
+        {` ${params.locale} ${params.page}`}
       </div>
 
       <div className={styles.grid}>
